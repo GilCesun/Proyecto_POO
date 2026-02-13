@@ -1,16 +1,20 @@
-# This is a sample Python script.
-
-# Press Ctrl+F5 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+from Models import *
+from utileria import *
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press F9 to toggle the breakpoint.
+def main():
+    prueba = Menu()
+    prueba.mostraMenu()
+
+    Orden1 = Orden()
+    Orden1.pedido()
+
+    Cuenta1 = Cuenta()
+    print(Cuenta1.total())
+    print( Cuenta1.subtotal())
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+  main()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/

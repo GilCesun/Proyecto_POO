@@ -1,0 +1,26 @@
+{
+    "Alimentos": [
+        [
+            "Alimento1",
+            "Alimento2",
+            "Alimento3"
+        ],
+        [
+            323.4,
+            123.4,
+            324
+        ]
+    ],
+    "Bebidas": [
+        [
+            "Bebida1",
+            "Bebida2",
+            "Bebida3"
+        ],
+        [
+            543.55,
+            45.6,
+            100
+        ]
+    ]
+}
