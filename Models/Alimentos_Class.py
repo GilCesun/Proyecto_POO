@@ -9,6 +9,6 @@ class Alimento:
             diccionario_LeerMenu = json.load(leerMenu)
 
         self.listaAlimentos = diccionario_LeerMenu["Alimentos"][0] #Crear una lista solo de alimentos
-        self.listaPrecios = diccionario_LeerMenu["Alimentos"][1] #Crear una lista solo de Precios
+        self.listaPrecios = diccionario_LeerMenu["Alimentos"][1] #Cr                                                    ear una lista solo de Precios
 
 

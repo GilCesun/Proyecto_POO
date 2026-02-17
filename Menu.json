@@ -1,9 +1,8 @@
 {
     "Alimentos": [
         [
-            "Alimento1",
-            "Alimento2",
-            "Alimento3"
+            "ALIMENTO1",
+            "ALIMENTO2"
         ],
         [
             323.4,
@@ -13,9 +12,8 @@
     ],
     "Bebidas": [
         [
-            "Bebida1",
-            "Bebida2",
-            "Bebida3"
+            "BEBIDA1",
+            "BEBIDA2"
         ],
         [
             543.55,
